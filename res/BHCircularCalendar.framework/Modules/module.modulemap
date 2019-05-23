@@ -1,0 +1,11 @@
+framework module BHCircularCalendar {
+  umbrella header "BHCircularCalendar.h"
+
+  export *
+  module * { export * }
+}
+
+module BHCircularCalendar.Swift {
+    header "BHCircularCalendar-Swift.h"
+    requires objc
+}
