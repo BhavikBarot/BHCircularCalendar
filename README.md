@@ -27,6 +27,37 @@ BHCircularCalendarDemo
 
 `BHCircularCalendar` works on all orientations and with any screen resolution. It will provide you Left/Right smooth scrolling for changing dates. There are also nice optional features allowing you to chang colors of the dates, Circle View, Month and Year Label. Also you can set the layout and fonts and do much more modification with the calendar as you need. It is having reset button enable disable option which will help you to jump on the current date.
 
+Installation
+==========================
+#### Cocoapods Installation
+
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. You can install framerowk with the following steps:
+
+1) Installing Cocoapods -> Run bellow command for installing cocoapods into your PC.
+  ```
+  $ sudo gem install cocoapods
+  ```
+
+2) Create new project -> Run bellow command for going to the project directory.
+  ```
+  $ cd YourProjectDirectoryPath
+  ```
+3) Create a podfile -> Run bellow command for creating a pod file(if you have not created)
+  ```
+  $ pod init
+  ```
+4) Write Pod comment to the pod file -> Write bellow lines into the generated Podfile into your project.
+  ```
+  pod 'BHCircularCalendar'
+  ```
+5) Install cocoapods -> Save Podfile and Run bellow command for installing BHTextFieldManager to your project by cocoapods.
+  ```
+  $ pod install
+  ```
+6) Open project -> Now go to your project directory and open .xcworkspace file.
+
+7) Build Project -> Build your project and write import statement and use BHTextFieldManager whereever you want in your project.
+
 
 LICENSE
 ---
