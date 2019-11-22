@@ -65,7 +65,7 @@ Distributed under the BSD 3-Clause License.
 
 Contributions
 ---
-You can contribute through suggestion or pointing out an issues on GitHub or in a mail.
+You can contribute through suggestion or pointing out an issues on GitHub or on a Mail.
 
 Author
 ---
